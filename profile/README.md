@@ -1,3 +1,5 @@
+<img src="https://github.com/balena-labs-projects/.github/raw/main/labs-logo.png" alt="Labs Logo" title="Labs Logo" width="150"/> 
+
 # Balena Labs
 
 Balena Labs is an autonomous, public-facing, research and experimentation team within Balena. We’re the most demanding users, and yet friendly. We’re Balena’s biggest fans, its harshest critics, and have the responsibility of making sure that feedback is heard and actioned.
