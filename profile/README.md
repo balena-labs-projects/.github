@@ -1,4 +1,4 @@
-<img src="https://github.com/balena-labs-projects/.github/raw/main/labs-logo.png" alt="Labs Logo" title="Labs Logo" width="150"/> 
+<img src="https://github.com/balena-labs-projects/.github/raw/main/labs-logo.png" alt="Labs Logo" title="Labs Logo" width="50"/> 
 
 # Balena Labs
 
